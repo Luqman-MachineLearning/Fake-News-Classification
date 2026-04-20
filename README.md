@@ -6,6 +6,10 @@ A machine learning project that classifies news articles as **real or fake** usi
 This project focuses on building an end-to-end ML pipeline — from data preprocessing to model training and evaluation.
 
 ---
+## 📓 Notebook
+
+👉 [View Full Project Notebook](./Fake%20News%20Classification/Fake%20News%20Classifier.ipynb)
+
 
 ## 🚀 Overview
 
