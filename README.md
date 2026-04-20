@@ -10,6 +10,10 @@ This project focuses on building an end-to-end ML pipeline — from data preproc
 
 👉 [View Full Project Notebook](./Fake%20News%20Classification/Fake%20News%20Classifier.ipynb)
 
+## 📂 Dataset
+
+- 📥 [Download Training Data](./Fake%20News%20Classification/kaggle_fake_train.7z)  
+- 📥 [Download Test Data](./Fake%20News%20Classification/kaggle_fake_test.7z)
 
 ## 🚀 Overview
 
